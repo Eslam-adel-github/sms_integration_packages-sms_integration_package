@@ -2,7 +2,7 @@
 
 #installtion
 
-`composer require sms_integration_packages/sms_integration_package `
+`composer require sms_integration_packages\sms_integration_package `
 
 #add in providers array in service provider this code
 
