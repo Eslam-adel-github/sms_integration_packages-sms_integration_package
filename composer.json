@@ -1,5 +1,5 @@
 {
-    "name": "sms_integration_packages/sms_integration_package",
+    "name": "sms_integration_package",
     "description": "To intrgrate with sms",
     "type": "package",
     "license": "MIT",
