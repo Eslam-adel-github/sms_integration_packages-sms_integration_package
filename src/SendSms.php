@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Sms\Integration\Package;
+namespace sms_integration_packages\sms_integration_package;
 
 
 class SendSms

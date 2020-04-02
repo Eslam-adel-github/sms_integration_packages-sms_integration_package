@@ -1,6 +1,6 @@
 <?php
 
-namespace Sms\Integration\Package;
+namespace sms_integration_packages\sms_integration_package;
 
 use Illuminate\Support\Facades\Event;
 use Illuminate\Auth\Events\Registered;
@@ -19,6 +19,6 @@ class SmsProvider extends ServiceProvider
 
     public function register()
     {
-       $this->app->make('Sms\Integration\Package\SendSms');
+       $this->app->make('sms_integration_packages\sms_integration_package\SendSms');
     }
 }

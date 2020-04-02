@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sms\\Integration\\Package\\": "src/"
+            "sms_integration_packages\\sms_integration_package\\": "src/"
         }
     },
     "minimum-stability": "dev"
